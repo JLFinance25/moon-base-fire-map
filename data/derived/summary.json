@@ -1,0 +1,43 @@
+{
+ "total_rows": 274,
+ "used": 273,
+ "skipped_missing_pressure": [
+  "C11M201"
+ ],
+ "limit_psi": 10.2,
+ "limit_mmhg": 527.5,
+ "min_o2": 0.3,
+ "n_o2_ge_30": 24,
+ "n_inside_box": 0,
+ "n_near": 17,
+ "near_psi_min": 10.332,
+ "near_psi_max": 10.496,
+ "near_o2_values": [
+  0.3,
+  0.34
+ ],
+ "near_outcomes": {
+  "Disruption": 15,
+  "Completion": 2
+ },
+ "other_ge30_psi_range": [
+  14.827,
+  14.911
+ ],
+ "all_outcomes": {
+  "Disruption": 61,
+  "Extinction": 185,
+  "Completion": 27
+ },
+ "lt30_outcomes": {
+  "Disruption": 43,
+  "Extinction": 183,
+  "Completion": 23
+ },
+ "ge30_outcomes": {
+  "Disruption": 18,
+  "Completion": 4,
+  "Extinction": 2
+ },
+ "lowest_pressure_any_test_psi": 10.177
+}
