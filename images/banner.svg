@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-label="Moon Base Fire Map banner">
+<rect width="1200" height="400" fill="#111315"/>
+<g fill="none" stroke="#2a2e34"><path d="M0 330H1200M0 290H1200M0 250H1200"/></g>
+<circle cx="980" cy="200" r="120" fill="#eceef0"/>
+<circle cx="1030" cy="170" r="24" fill="#cfd3d8"/><circle cx="950" cy="250" r="34" fill="#cfd3d8"/><circle cx="1005" cy="265" r="14" fill="#cfd3d8"/>
+<path d="M985 120c30 40 52 62 52 100a52 52 0 0 1-104 0c0-20 10-34 22-48 2 14 8 22 16 24-6-30 0-52 14-76z" fill="#f08a3c"/>
+<path d="M985 190c14 18 24 28 24 46a24 24 0 0 1-48 0c0-10 5-17 11-23 1 7 4 11 8 12-3-14 0-24 5-35z" fill="#111315" opacity=".35"/>
+<text x="70" y="190" font-family="Helvetica,Arial,sans-serif" font-size="86" font-weight="700" fill="#eceef0">Moon Base Fire Map</text>
+<text x="74" y="245" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#9aa1ab">273 ISS fire tests vs. the air of a Moon base</text>
+<text x="74" y="290" font-family="Helvetica,Arial,sans-serif" font-size="24" fill="#f08a3c">Lunar Flame Lab · NASA Space Apps 2026 · Flame in Freefall</text>
+<text x="1190" y="388" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#9aa1ab">Image made with AI (Claude)</text>
+</svg>
